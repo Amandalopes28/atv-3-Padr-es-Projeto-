@@ -6,9 +6,9 @@
 Este projeto é uma refatoração de um sistema legado que gerencia sensores embarcados em uma linha de produção inteligente. O sistema foi reestruturado utilizando padrões de projeto GoF com o objetivo de tornar reutilizável e fácil de manter.
 
 ## Autor
-Nome do aluno: Amanda Santos Lopes 
-Disciplina: Padrões de Projeto
-Professor: Felipe Silva
+-Nome do aluno: Amanda Santos Lopes 
+-Disciplina: Padrões de Projeto
+-Professor: Felipe Silva
 
 ##  Estrutura do Projeto
 
